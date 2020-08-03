@@ -17,7 +17,7 @@ Move to the root folder of the repo and run the following comands:
     $ mbed compile --target DISCO_F746NG
 ```
 
-You will find the file: ./BUILD/DISCO_F746NG/GCC_ARM/mbed-os-renode-example.elf which you can use in the [mbed file .resc]() on Renode
+You will find the file: ./BUILD/DISCO_F746NG/GCC_ARM/mbed-os-renode-example.elf which you can use in the [mbed file .resc](https://github.com/andresR8/renode/blob/master/scripts/single-node/stm32f746_mbed.resc#L13) on Renode
 
 ## Expected output
 
