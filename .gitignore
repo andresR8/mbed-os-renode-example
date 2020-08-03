@@ -2,6 +2,7 @@
 .mbed
 projectfiles
 *.py*
+*.png
 
 # Default Build Directory
 .build/
